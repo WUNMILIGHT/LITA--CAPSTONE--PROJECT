@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abiola Sowunmi
+- 👀 I’m passionate about exploring and driving business decisions
+- 🌱 I’m currently learning Data Analysis and Financial Modelling
