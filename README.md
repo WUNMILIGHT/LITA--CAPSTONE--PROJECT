@@ -12,7 +12,7 @@ Contents
 3. Region Sales Performance
 4. Product Sales Performance
 5. top 5 sales performance
-6. 
+   
 Sales Data
 - Source: [ the data source was provided by incubator hub ]
 - Format: [sql, Excel powerbi]
